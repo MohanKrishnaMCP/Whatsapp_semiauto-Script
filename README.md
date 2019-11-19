@@ -13,4 +13,4 @@ INSTRUCTION:
 
 -----------------------------------------------------------
 
-PS: I made this for fun and make my class group drowned with spams.
+PS: I made this for fun and to make my class group drowned with spams.
